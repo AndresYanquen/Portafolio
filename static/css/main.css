@@ -507,7 +507,7 @@ button:nth-child(2) {
 #one {
   height: 10px;
   background: #db7093;
-  width: 70%;
+  width: 80%;
   border-radius: 30px;
 }
 #two {
@@ -518,7 +518,7 @@ button:nth-child(2) {
 }
 #three {
   height: 10px;
-  width: 65%;
+  width: 85%;
   background: #15ff00;
   border-radius: 30px;
 }
@@ -536,14 +536,38 @@ button:nth-child(2) {
 }
 #six {
   height: 10px;
-  width: 40%;
+  width: 75%;
   background: #b610a8;
   border-radius: 30px;
 }
 #seven {
   height: 10px;
-  width: 75%;
+  width: 60%;
   background: #067719;
+  border-radius: 30px;
+}
+#eight {
+  height: 10px;
+  width: 60%;
+  background: #342499;
+  border-radius: 30px;
+}
+#nine {
+  height: 10px;
+  width: 55%;
+  background: #738052;
+  border-radius: 30px;
+}
+#ten {
+  height: 10px;
+  width: 45%;
+  background: #c28626;
+  border-radius: 30px;
+}
+#eleven {
+  height: 10px;
+  width: 40%;
+  background: #36799d;
   border-radius: 30px;
 }
 .bar-info {
