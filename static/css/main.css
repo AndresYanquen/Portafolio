@@ -540,18 +540,21 @@ button:nth-child(2) {
   background: #b610a8;
   border-radius: 30px;
 }
+
 #seven {
   height: 10px;
   width: 60%;
   background: #067719;
   border-radius: 30px;
 }
+
 #eight {
   height: 10px;
   width: 60%;
   background: #342499;
   border-radius: 30px;
 }
+
 #nine {
   height: 10px;
   width: 55%;
@@ -565,6 +568,7 @@ button:nth-child(2) {
   background: #c28626;
   border-radius: 30px;
 }
+
 #eleven {
   height: 10px;
   width: 40%;
